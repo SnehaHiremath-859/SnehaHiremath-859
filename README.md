@@ -1,4 +1,4 @@
-<div align="center">👋 Hi, I'm Sneha Hiremath
+👋 Hi, I'm Sneha Hiremath
 
 💻 Computer Science & Engineering Student
 
