@@ -42,15 +42,13 @@ I'm continuously enhancing my technical skills by building projects and learning
 - CSS
 - JavaScript
 
-🛠 Tools
+## 🛠️ Tools
 
-- Git
-- GitHub
-- VS Code
+🐍 Python • 🗄️ SQL • 📊 Microsoft Excel • 📈 Power BI • 💻 VS Code • 🌿 Git • 🐙 GitHub
 
 ---
 
-📂 Featured Projects
+📂  Projects
 
 📊 E-commerce Sales Data Analysis
 
