@@ -50,15 +50,15 @@ I'm continuously enhancing my technical skills by building projects and learning
 
 📂  Projects
 
-📊 E-commerce Sales Data Analysis
+E-commerce Sales Data Analysis
 
-Tech Stack: Python • Pandas • SQL • Power BI • Microsoft Excel
+Tech Stack: Python • Pandas • Power BI • Microsoft Excel
 
-- 📈 Analyzed sales data to identify trends in revenue and customer behavior.
-- 🧹 Cleaned and processed data using Python (Pandas) and SQL.
-- 🔍 Performed Exploratory Data Analysis (EDA) to discover meaningful patterns.
-- 📊 Created interactive dashboards and visualizations using Power BI.
-- 🏆 Identified top-performing products and sales regions to support business decisions.
+📈 Analyzed Superstore sales data to identify sales trends across categories, regions, and customer segments.
+🧹 Cleaned and processed the dataset using Python (Pandas).
+🔍 Performed Exploratory Data Analysis (EDA) to uncover meaningful business insights.
+📊 Built an interactive Power BI dashboard to visualize sales and profit performance.
+🏆 Identified top-performing product categories, sub-categories, customer segments, and sales regions to support data-driven decision-making.
 
 ---
 
