@@ -4,7 +4,7 @@
 
 💻 Computer Science & Engineering Student
 
-🌐  Web Developer | React | HTML | CSS | Shopify
+🌐  Aspiring Web Developer | React | HTML | CSS | Shopify
 
 "Building modern, responsive, and user-friendly web applications."
 
